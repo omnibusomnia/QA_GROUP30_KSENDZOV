@@ -46,3 +46,10 @@ curl "http://162.55.220.72:5005/get_method?name=(EVGENII)&age=(41)"
 приходит короткий ответ 
   "(EVGENII)",
   "(41)"
+  <img width="714" alt="image" src="https://user-images.githubusercontent.com/105503910/169756292-c02629dd-f9d1-48bc-b426-e5146a30455d.png">
+
+Написать скрипт который выполнит автоматически пункты 3, 4, 5, 6, 7, 8, 13 (Сам скрипт прикреплен в отдельном файле)
+
+
+<img width="536" alt="image" src="https://user-images.githubusercontent.com/105503910/169756492-76660f36-655e-4516-84ff-b388321f8a96.png">
+
