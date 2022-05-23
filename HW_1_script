@@ -4,13 +4,14 @@ echo "The current directory is:"
 pwd #pwd=Print Working Directory
 echo "The user logged in is:"
 whoami
-echo "now i go to the next directory: E:/QA/classes.homework/01"
-cd E:/QA/classes.homework/01
+echo "now i go to the next directory: E:/QA/classes.homework"
+cd E:/QA/classes.homework
 echo "creation of some folders..."
+mkdir 01
+cd 01
 mkdir phobos deimos mars
 cd mars
-touch phobos.txt deimos.txt mars.txt
-touch io.json callisto.json
+touch phobos.txt deimos.txt mars.txt io.json callisto.json
 mkdir evropa ganimed leda
 ls -la
 mv io.json  phobos.txt E:/QA/classes.homework/01/deimos
